@@ -1,6 +1,6 @@
 # Hi there, I'm Meghana 👋
 
-### 🧪 Senior Automation Engineer | 13+ Years in QA | Bengaluru, India
+### 🧪 Senior Automation Engineer | 13+ Years in QA | 6+ Years in Automation | Bengaluru, India
 
 I'm a passionate QA engineer specializing in **web, mobile, and API test automation**. I build robust frameworks, lead QA strategy, and help teams ship high-quality software with confidence.
 
@@ -8,12 +8,11 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 
 ## 🚀 About Me
 
-- 🔭 Currently working at **Globant** on automation for the **Google Home App** (IoT devices)
-- 🛠️ 6+ years building and scaling automation frameworks with **Selenium, Java, Appium & Rest Assured**
+- 🔭 Currently working at **Globant** as Seniot Test Automantion Engineer
+- 🛠️ 6+ years building and scaling automation frameworks with **Selenium, Java, Appium, Rest Assured, Playwright and Typescript**
 - 🎯 Focused on **shift-left testing**, CI/CD integration, and reducing regression cycle times
 - 🏅 **Certified Scrum Master (PSM I)** — Scrum.org
 - 💬 Ask me about **test automation strategy, framework design, or QA best practices**
-- 📍 Based in Bengaluru, India
 
 ---
 
@@ -38,7 +37,6 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -60,8 +58,6 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 - 🔍 Reduced rework by **20%** by identifying high-risk areas early in SDLC
 - 🧑‍🏫 Mentored **4–6 QA engineers** across automation best practices and script quality
 - 📊 Boosted automation coverage by **20–30%** through enhanced framework development
-- 🏅 **Extraordinary Client Services Award** — Encora Inc. (Nov 2022)
-- 🏅 **Customer Success Champion Award** — Encora Inc. (Apr 2022)
 
 ---
 
