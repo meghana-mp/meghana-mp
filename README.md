@@ -1,6 +1,6 @@
 # Hi there, I'm Meghana 👋
 
-### 🧪 Senior Automation Engineer | 13+ Years in QA | 6+ Years in Automation | Bengaluru, India
+### 🧪 Senior Automation Engineer | 13+ Years in QA | 6+ Years in Test Automation | Bengaluru, India
 
 I'm a passionate QA engineer specializing in **web, mobile, and API test automation**. I build robust frameworks, lead QA strategy, and help teams ship high-quality software with confidence.
 
@@ -8,9 +8,9 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 
 ## 🚀 About Me
 
-- 🔭 Currently working at **Globant** as Seniot Test Automantion Engineer
+- 🔭 Currently working at **Globant** as Senior Test Automantion Engineer
 - 🛠️ 6+ years building and scaling automation frameworks with **Selenium, Java, Appium, Rest Assured, Playwright and Typescript**
-- 🎯 Focused on **shift-left testing**, CI/CD integration, and reducing regression cycle times
+- 🎯 Focused on **test automation**, CI/CD integration, and reducing regression cycle times
 - 🏅 **Certified Scrum Master (PSM I)** — Scrum.org
 - 💬 Ask me about **test automation strategy, framework design, or QA best practices**
 
