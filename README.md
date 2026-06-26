@@ -93,7 +93,7 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 - 🧠 **Phi-4 Mini via Ollama** for free local generation — isolates RAG quality from model knowledge
 - 🛠️ **Stack:** Python, Pytest, RAGAS, LangChain, Claude API, ChromaDB, Ollama, Streamlit, Plotly, SentenceTransformers
 
-### 🔗 [REST Assured API Test Automation Framework](https://github.com/meghana-mp/rest-assured-project]
+### 🔗 [REST Assured API Test Automation Framework](https://github.com/meghana-mp/rest-assured-project)
 **REST API test automation framework**
 
 - 🔐 **Multi-authentication coverage** — OAuth 2.0 Bearer Token, Cookie Session
