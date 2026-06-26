@@ -71,7 +71,7 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 ## 🌟 Featured Projects
 
 ### 🎭 [EventHub Selenium Automation Framework](https://github.com/meghana-mp/selenium-java-project)
-**Production-grade UI + API hybrid framework with GenAI-assisted self-healing**
+**Selenium automation framework with Self-Healing**
 
 - 🏗️ **5-layer architecture** with 10 design patterns: Page Object Model, Singleton (DCL), ThreadLocal, Factory, Template Method, Facade, Observer, Data Provider, Retry, and Self-Healing
 - ⚡ **Parallel execution** via TestNG (2 threads) + ThreadLocal WebDriver isolation
@@ -92,6 +92,30 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 - 📊 **Interactive Streamlit + Plotly dashboard** for results exploration
 - 🧠 **Phi-4 Mini via Ollama** for free local generation — isolates RAG quality from model knowledge
 - 🛠️ **Stack:** Python, Pytest, RAGAS, LangChain, Claude API, ChromaDB, Ollama, Streamlit, Plotly, SentenceTransformers
+
+## 🔗 REST Assured API Test Automation Framework
+**REST API test automation framework**
+
+- 🔐 **Multi-authentication coverage** — OAuth 2.0 Bearer Token, Cookie Session
+  Token, and JWT Bearer with token refresh; each strategy includes negative tests
+  confirming unauthorized access is rejected
+- 📋 **JSON Schema validation** — six Draft-07 schema files enforce response
+  contracts on structure, field types, enum values, and array constraints
+  independently of assertion-level checks
+- 🗂️ **Data-driven testing** — all test inputs externalized to JSON files;
+  TestNG `@DataProvider` injects rows at runtime with no hardcoded values
+  inside test methods
+- 🌐 **WireMock embedded mock server** — file-based stubs loaded from
+  `mappings/` at startup and programmatic stubs with body and header matching;
+  call verification confirms stubs were actually reached
+- 📊 **Allure reporting** — full `@Epic / @Feature / @Story / @Step` hierarchy
+  with AspectJ load-time weaving; response body and diagnostic attachments
+  captured on failing tests
+- ⚙️ **CI/CD ready** — credentials loaded from `config.properties` with
+  transparent environment variable override; no code changes needed to run
+  in any pipeline
+- 🛠️ **Stack** — Java 21, REST Assured 5.3.2, TestNG 7.9.0, WireMock 3.5.4,
+  Allure 2.27.0, AspectJ, Lombok, Jackson, Maven
 
 ---
 
