@@ -70,7 +70,7 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 
 ## 🌟 Featured Projects
 
-### 🎭 [Selenium Automation Framework](https://github.com/meghana-mp/selenium-java-project)
+### 1. 🎭 [Selenium Automation Framework](https://github.com/meghana-mp/selenium-java-project)
 **Selenium automation framework with Self-Healing**
 
 - 🏗️ **5-layer architecture** with 10 design patterns: Page Object Model, Singleton (DCL), ThreadLocal, Factory, Template Method, Facade, Observer, Data Provider, Retry, and Self-Healing
@@ -82,7 +82,7 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 - 📊 **20 end-to-end scenarios** across 10 feature domains (auth, search, booking, payment, hybrid API+UI)
 - 🛠️ **Stack:** Java 21, Selenium 4.21, TestNG, RestAssured, Allure, Docker, Jenkins, Claude API
 
-### 🍛 [RAG — Evaluation Pipeline(RAGAS) ](https://github.com/meghana-mp/recipie-ragas-evaluation)
+### 2. 🍛 [RAG — Evaluation Pipeline(RAGAS) ](https://github.com/meghana-mp/recipie-ragas-evaluation)
 **End-to-end LLM testing framework using the RAG Triad**
 
 - 🧪 **Custom LLM evaluation pipeline** measuring Faithfulness, Answer Relevancy, and Context Precision
@@ -93,7 +93,7 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 - 🧠 **Phi-4 Mini via Ollama** for free local generation — isolates RAG quality from model knowledge
 - 🛠️ **Stack:** Python, Pytest, RAGAS, LangChain, Claude API, ChromaDB, Ollama, Streamlit, Plotly, SentenceTransformers
 
-### 🔗 [REST Assured API Automation Framework](https://github.com/meghana-mp/rest-assured-project)
+### 3. [REST Assured API Automation Framework](https://github.com/meghana-mp/rest-assured-project)
 **REST API test automation framework**
 
 - 🔐 **Multi-authentication coverage** — OAuth 2.0 Bearer Token, Cookie Session
@@ -117,7 +117,7 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 - 🛠️ **Stack** — Java 21, REST Assured 5.3.2, TestNG 7.9.0, WireMock 3.5.4,
   Allure 2.27.0, AspectJ, Lombok, Jackson, Maven
 
-### [Playwright — Python Test Automation Framework](https://github.com/meghana-mp/playwright-python-project)
+### 4. [Playwright — Python Test Automation Framework](https://github.com/meghana-mp/playwright-python-project)
 **End-to-end browser automation framework**
 
 - 🔐 **Session-scoped authentication caching** — login runs once per session; auth state is restored for every test, eliminating repeated login roundtrips across 20+ tests
@@ -130,6 +130,17 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 - 🐳 **Dockerized parallel CI/CD** — six docker-compose services cover smoke, regression, parallel, and cross-browser runs; a five-stage Jenkins pipeline handles build, test, and report publishing end to end
 - 🛠️ **Stack:** Python 3.12, Playwright 1.60.0, pytest, pytest-xdist, Allure, Docker, Jenkins, Faker
 
+### 5. 📱 [Appium Mobile Test Automation Framework](https://github.com/meghana-mp/appium-java-project)
+**End-to-end Android test automation framework for the SauceLabs Mobile app**
+
+- 🏗️ **4-layer architecture** — Driver → Utility → Page Object → Test, with no layer reaching past its immediate neighbour
+- 🔄 **Resilient session management** — 3-attempt retry with ANR dismissal at session init, page load, and gesture level
+- 📊 **Fully data-driven** — zero hardcoded test values; all inputs sourced from JSON via a fluent key-path API
+- 🎭 **W3C Actions API gestures** — tap, scroll, swipe, long press, and pinch using the modern pointer input standard
+- 🧪 **15 E2E scenarios** across Login, Inventory, Cart, Checkout, and Navigation in 3 configurable TestNG suites
+- 📈 **Allure reporting** with compile-time AspectJ step weaving, failure screenshots, severity classification, and environment panel
+- ☁️ **BrowserStack-ready** — only driver capabilities change to switch from local emulator to cloud device farm
+- 🛠️ **Stack:** Java 17, Appium 2.0, UiAutomator2, TestNG, Allure, AspectJ, Jackson, Maven, Android API 34
 
 ---
 
