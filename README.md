@@ -70,7 +70,7 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 
 ## 🌟 Featured Projects
 
-### 🎭 [EventHub Selenium Automation Framework](https://github.com/meghana-mp/selenium-java-project)
+### 🎭 [Selenium Automation Framework](https://github.com/meghana-mp/selenium-java-project)
 **Selenium automation framework with Self-Healing**
 
 - 🏗️ **5-layer architecture** with 10 design patterns: Page Object Model, Singleton (DCL), ThreadLocal, Factory, Template Method, Facade, Observer, Data Provider, Retry, and Self-Healing
@@ -82,7 +82,7 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 - 📊 **20 end-to-end scenarios** across 10 feature domains (auth, search, booking, payment, hybrid API+UI)
 - 🛠️ **Stack:** Java 21, Selenium 4.21, TestNG, RestAssured, Allure, Docker, Jenkins, Claude API
 
-### 🍛 [Indian Recipes RAG — Evaluation Pipeline](https://github.com/meghana-mp/recipie-ragas-evaluation)
+### 🍛 [RAG — Evaluation Pipeline(RAGAS) ](https://github.com/meghana-mp/recipie-ragas-evaluation)
 **End-to-end LLM testing framework using the RAG Triad**
 
 - 🧪 **Custom LLM evaluation pipeline** measuring Faithfulness, Answer Relevancy, and Context Precision
@@ -93,7 +93,7 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 - 🧠 **Phi-4 Mini via Ollama** for free local generation — isolates RAG quality from model knowledge
 - 🛠️ **Stack:** Python, Pytest, RAGAS, LangChain, Claude API, ChromaDB, Ollama, Streamlit, Plotly, SentenceTransformers
 
-### 🔗 [REST Assured API Test Automation Framework](https://github.com/meghana-mp/rest-assured-project)
+### 🔗 [REST Assured API Automation Framework](https://github.com/meghana-mp/rest-assured-project)
 **REST API test automation framework**
 
 - 🔐 **Multi-authentication coverage** — OAuth 2.0 Bearer Token, Cookie Session
@@ -116,6 +116,20 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
   in any pipeline
 - 🛠️ **Stack** — Java 21, REST Assured 5.3.2, TestNG 7.9.0, WireMock 3.5.4,
   Allure 2.27.0, AspectJ, Lombok, Jackson, Maven
+
+### [Playwright — Python Test Automation Framework](https://github.com/meghana-mp/playwright-python-project)
+**End-to-end browser automation framework**
+
+- 🔐 **Session-scoped authentication caching** — login runs once per session; auth state is restored for every test, eliminating repeated login roundtrips across 20+ tests
+- 📐 **Page Object Model with a Facade layer** — 8 page classes unified into a single PageManager container so each test declares one fixture instead of managing every page individually
+- 🔄 **Data-driven and parametrized testing** — all test data lives in JSON files; boundary values, search filters, and registration cases are driven from structured data with zero hardcoded values in test code
+- 🔗 **Hybrid UI and API validation** — booking flows verified at both the browser and REST API layer using a dedicated HTTP client with JWT bearer auth; API response bodies attached to the report as JSON
+- 📱 **Mobile viewport testing** — a dedicated mobile fixture sets a 375×812 viewport with touch support and a mobile user agent, verifying responsive layout and hamburger navigation under real device conditions
+- 🎭 **API mocking for error scenarios** — the booking API is intercepted at the network layer to test error-state notifications deterministically, without depending on live server seat availability
+- 📊 **Structured Allure reporting** — every test carries severity, description, and tags; failures auto-attach a screenshot; environment metadata and failure categories are written at session start
+- 🐳 **Dockerized parallel CI/CD** — six docker-compose services cover smoke, regression, parallel, and cross-browser runs; a five-stage Jenkins pipeline handles build, test, and report publishing end to end
+- 🛠️ **Stack:** Python 3.12, Playwright 1.60.0, pytest, pytest-xdist, Allure, Docker, Jenkins, Faker
+
 
 ---
 
