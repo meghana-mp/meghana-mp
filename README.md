@@ -31,12 +31,10 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### AI / GenAI in Testing
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAGAS](https://img.shields.io/badge/RAGAS-FF6F00?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-7A28F5?style=for-the-badge&logoColor=white)
