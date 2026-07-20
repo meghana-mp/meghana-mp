@@ -59,7 +59,7 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 
 | Role | Company | Period |
 |------|---------|--------|
-| Senior Test Automation Engineer | Globant | Mar 2024 – Present |
+| Senior Test Automation Engineer | Globant | Mar 2024 – Apr 2026 |
 | QA Lead | Encora Inc. | Feb 2017 – Mar 2024 |
 | Senior Test Analyst | Accenture India | Aug 2016 – Feb 2017 |
 | Software Engineer | Tech Mahindra Ltd. | Feb 2012 – Aug 2016 |
