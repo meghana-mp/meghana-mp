@@ -1,6 +1,6 @@
 # Hi there, I'm Meghana 👋
 
-### 🧪 Senior Automation Engineer | 14 Years in QA | 7 Years in Test Automation | Bengaluru, India
+### 🧪 Senior Automation Engineer | 14 Years in QA | 8 Years in Test Automation | Bengaluru, India
 
 I'm a passionate QA engineer specializing in **web, mobile, and API test automation**. I build robust frameworks, lead QA strategy, and help teams ship high-quality software with confidence — now also exploring **GenAI-powered testing** with self-healing locators and LLM-based evaluation pipelines.
 
