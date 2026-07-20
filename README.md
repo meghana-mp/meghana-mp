@@ -9,7 +9,7 @@ I'm a passionate QA engineer specializing in **web, mobile, and API test automat
 ## 🚀 About Me
 
 - 🔭 Currently working at **Globant** as Senior Test Automation Engineer
-- 🛠️ 6+ years building and scaling automation frameworks with **Selenium, Java, Appium, Rest Assured, Playwright, TypeScript, and Python**
+- 🛠️ 8+ years building and scaling automation frameworks with **Selenium, Java, Appium, Rest Assured, Playwright, TypeScript, and Python**
 - 🤖 Exploring **GenAI in test automation** — Claude API for self-healing locators, RAGAS for LLM evaluation
 - 🎯 Focused on **test automation strategy**, CI/CD integration, and reducing regression cycle times
 - 🏅 **Certified Scrum Master (PSM I)** — Scrum.org
